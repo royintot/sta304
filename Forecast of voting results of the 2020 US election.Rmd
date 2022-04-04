@@ -1,7 +1,7 @@
 ---
 title: "Forecast of voting results in the 2020 US election"
 author: "Ruoyun Wang,1005472597"
-thanks: "Code and data are available at https://github.com"
+thanks: "Code and data are available at https://github.com/royintot/sta304"
 date: "01/04/2022"
 abstract: "This paper uses the multilevel regression with post-stratification (MRP) method to predict the 2020 election results, survey data Democracy Fund + UCLA Nationscape ‘Full Data Set’ from July 2019 to December 26, 2019. The post-stratification dataset selected the American community survey (ACS) data in 2010. Both datasets contain age, gender, region, race, and income information. The above variables are used as key variables to model the survey data. The modelling results were then applied to ACS data to complete the MRP estimates of the 2020 election results. The results show that Biden will win 21 states and 50.25% of the votes."
 output: pdf_document
